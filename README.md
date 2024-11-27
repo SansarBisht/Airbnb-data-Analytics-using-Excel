@@ -15,7 +15,7 @@ This project focuses on an in-depth exploration and analysis of Airbnb rental da
   * Pricing Strategies: Identified key factors influencing rental prices, such as location, property type, and guest reviews. Found that properties with higher ratings and more amenities tend to charge higher prices.
   * Customer Preferences: Discovered trends in customer preferences, such as popular locations and frequently requested amenities. This insight can help hosts tailor their offerings to meet customer demand.
   * Market Trends: Analyzed seasonal patterns in booking rates and prices, providing valuable information for strategic planning.
--Tools and Technologies Used
+- Tools and Technologies Used
   * Excel: Utilized extensively for data manipulation, cleaning, and analysis. Excel's powerful functions and features enabled efficient handling and visualization of the data.
 - Future Work
   * Advanced Analytics: Plan to implement machine learning models to predict rental prices and booking rates based on historical data.
